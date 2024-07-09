@@ -1,3 +1,3 @@
-FROM dk8409/webapp:v2
+FROM dk8409/webapp:v1
 COPY index.html /var/www/html/index.html
  
